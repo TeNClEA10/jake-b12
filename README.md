@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jake-b12
+- 👋 Hi, I’m Jake
 - 👀 I’m interested in python and ml.
 - 🌱 I’m currently learning basics of machine learning...
 - 💞️ I’m looking to collaborate on ml libraries
